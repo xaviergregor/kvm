@@ -1,8 +1,5 @@
 #!/usr/bin/bash
 
-# Let's Go !! #################################################
-
-
 virt-install \
 	--name debian \
 	--vcpus=2 \
